@@ -1,4 +1,4 @@
-const CACHE_NAME = '{{VENDOR}}-v1';
+const CACHE_NAME = 'mamia-v1';
 
 self.addEventListener('install', (event) => {
   event.waitUntil(
