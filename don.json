@@ -5,6 +5,20 @@
     "showStock": true,
     "ntfyTopic": "mamia_commandes"
   },
-  "categories": [],
-  "products": []
+  "categories": [
+    {
+      "id": 1,
+      "name": "Pains"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Painblanc",
+      "price": 20,
+      "image": "https://res.cloudinary.com/h91be5lz/image/upload/v1783414625/hanout_products/vlorfk5y8rha1k62asjr.jpg",
+      "categoryId": 1,
+      "stock": 20
+    }
+  ]
 }
