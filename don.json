@@ -1,0 +1,10 @@
+{
+  "settings": {
+    "title": "Boutique de mamia",
+    "currency": "DZD",
+    "showStock": true,
+    "ntfyTopic": "mamia_commandes"
+  },
+  "categories": [],
+  "products": []
+}
